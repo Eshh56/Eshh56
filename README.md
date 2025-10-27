@@ -8,10 +8,9 @@
 🤝 Looking to collaborate on **Frontend Projects**  
 🎯 Goal: To become a **Full Stack Developer** 
 
-💬 Ask me about **HTML, CSS, JavaScript**  
-
 📫 How to reach me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eshwar06)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.link)
 
 ⚡ Fun fact: I love creating beautiful UI designs!
