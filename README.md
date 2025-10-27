@@ -23,10 +23,6 @@
 
 ---
 
-![Easwaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight)
-
----
-
 ## 🧰 Workspace Spec
 ![MacBook](https://img.shields.io/badge/Apple-MacBook_Pro_M1-gray?style=for-the-badge&logo=apple)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
