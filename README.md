@@ -24,3 +24,24 @@
 ---
 
 ![Easwaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight)
+
+---
+
+## 🧰 Workspace Spec
+![MacBook](https://img.shields.io/badge/Apple-MacBook_Pro_M1-gray?style=for-the-badge&logo=apple)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![AMD](https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Easwaran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eshh56&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eshh56&layout=compact&theme=tokyonight)
+
+---
+
+## 🧩 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/eshwar06?theme=dark&font=Roboto&ext=contest)
+
