@@ -7,7 +7,7 @@
 💬 Ask me about **HTML, CSS, JavaScript**  
 
 📫 How to reach me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/https://www.linkedin.com/in/eshwar06?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMIeZqNPxRlCPCq99fRMamQ%3D%3D)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.link)
 
 ⚡ Fun fact: I love creating beautiful UI designs!
