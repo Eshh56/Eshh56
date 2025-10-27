@@ -2,9 +2,11 @@
 
 🎓 Computer Application Graduate | 💻 Web Developer  
  <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-
+ 
+💻 Aspiring Software Engineer  
 🚀 Currently learning **React JS & Modern Web Development**  
 🤝 Looking to collaborate on **Frontend Projects**  
+🎯 Goal: To become a **Full Stack Developer** 
 💬 Ask me about **HTML, CSS, JavaScript**  
 
 📫 How to reach me:  
