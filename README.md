@@ -1,9 +1,8 @@
-<table>
-  <tr>
-    <td>
+
 
 ### Hi there 👋 I'm Easwaran  
-💻 Aspiring Software Engineer  
+💻 Aspiring Software Engineer 
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 🌱 Currently learning **Web Development & DSA**  
 🎯 Goal: To become a **Full Stack Developer**  
 📫 Reach me at: [LinkedIn](https://linkedin.com/in/YOUR_LINK) | [LeetCode](https://leetcode.com/Eshwar26/)
@@ -21,17 +20,4 @@
 **LeetCode Stats:**  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Eshwar26?theme=dark&font=Karma)
 
-</td>
-<td>
-
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350">
-
-</td>
-<td>
-
- <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350">
-
-</td>
-  </tr>
-</table>
 
