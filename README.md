@@ -7,6 +7,7 @@
 🚀 Currently learning **React JS & Modern Web Development**  
 🤝 Looking to collaborate on **Frontend Projects**  
 🎯 Goal: To become a **Full Stack Developer** 
+
 💬 Ask me about **HTML, CSS, JavaScript**  
 
 📫 How to reach me:  
